@@ -1,0 +1,14 @@
+Typography : 
+
+1. Colour , Boldness , Font family 
+
+  a. Font Family : Use Google Font for that as mention in file 3_Google-fonts.
+
+
+Icons : 
+
+
+NOTE: 
+For using other Libraries of Icons We Prefer : Google icons , font awesome with cdnjs   
+
+Mention In file 4_icons.html
